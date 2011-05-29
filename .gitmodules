@@ -1,0 +1,3 @@
+[submodule "robolectric"]
+	path = robolectric
+	url = git@github.com:loktar/robolectric.git
